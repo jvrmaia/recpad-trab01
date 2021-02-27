@@ -1,0 +1,22 @@
+variable number           process variable                                               type
+---------------------------------------------------------------------------------------------------------
+IDV 1                     A/C feed ratio, B composition constant (stream 4)              step
+IDV 2                     B composition, A/C ration constant (stream 4)                  step
+IDV 3                     D feed temperature (stream 2)                                  step
+IDV 4                     reactor cooling water inlet temperature                        step
+IDV 5                     condenser cooling water inlet temperature                      step
+IDV 6                     A feed loss (stream 1)                                         step
+IDV 7                     C header pressure loss - reduced availability (stream 4)       step
+IDV 8                     A, B, C feed composition (stream 4)                            random variation
+IDV 9                     D feed temperature (stream 2)                                  random variation
+IDV 10                    C feed temperature (stream 4)                                  random variation
+IDV 11                    reactor cooling water inlet temperature                        random variation
+IDV 12                    condenser cooling water inlet temperature                      random variation
+IDV 13                    reaction kinetics                                              slow drift
+IDV 14                    reactor cooling water valve                                    sticking
+IDV 15                    condensor cooling water valve                                  sticking
+IDV 16                    unknown                                                        unknown
+IDV 17                    unknown                                                        unknown
+IDV 18                    unknown                                                        unknown
+IDV 19                    unknown                                                        unknown
+IDV 20                    unknown                                                        unknown
